@@ -62,7 +62,7 @@ task-manager-node/
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone SEU_LINK_AQUI
+git clone https://github.com/SouJooj/task-manager-node.git
 
 👨‍💻 Autor
 
